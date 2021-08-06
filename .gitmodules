@@ -1,3 +1,4 @@
-[submodule "libraries/libpng/source@a40189c"]
-	path = libraries/libpng/libpng
-	url = https://github.com/glennrp/libpng/tree/a40189cf881e9f0db80511c382292a5604c3c3d1
+[submodule "libraries/libpng/source"]
+	path = libraries/libpng/source
+	url = https://github.com/glennrp/libpng.git
+	ignore = dirty
